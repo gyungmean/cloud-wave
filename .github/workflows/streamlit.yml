@@ -1,5 +1,4 @@
 name: Streamlit CI
-
 on:
   push:
     branches: [ "main" ]
